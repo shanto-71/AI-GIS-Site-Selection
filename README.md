@@ -13,7 +13,7 @@ This project integrates **Geographic Information Systems (GIS)** with **Multi-Cr
 * **Data-Driven:** Reduces subjectivity in infrastructure planning.
 
 ## Technical Stack
-* **Language:** Python (Pandas for data handling) / [Mention if you used ArcGIS/QGIS]
+* **Language:** Python (Pandas for data handling)
 * **Methodology:** Analytic Hierarchy Process (AHP) for weight distribution.
 
 ## Future Scope (AI Integration)
